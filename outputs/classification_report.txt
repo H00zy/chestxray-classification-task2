@@ -1,0 +1,11 @@
+               precision    recall  f1-score   support
+
+  Atelectasis     0.2092    0.4020    0.2752       102
+     Effusion     0.2500    0.3939    0.3059        99
+ Infiltration     0.1550    0.4476    0.2302       143
+   No Finding     0.7688    0.2184    0.3402       609
+Other Disease     0.2500    0.2722    0.2606       169
+
+     accuracy                         0.2879      1122
+    macro avg     0.3266    0.3468    0.2824      1122
+ weighted avg     0.5158    0.2879    0.3052      1122
